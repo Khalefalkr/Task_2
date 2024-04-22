@@ -1,0 +1,22 @@
+h1, h3, .lastP, .tb1 tr td, .tb2 tr td{
+    text-align:center;
+}
+h1{
+    background-color:rgb(198, 198, 78);
+}
+h3{
+    background-color:gold;
+}
+.tb1{
+    background-color:rgb(191, 117, 191);
+}
+.tb1 tr td, .tb2 tr td, tr th{
+    padding:7px 5px;
+    border:3px black solid;
+}
+.tb2{
+    background-color:#008DDA;
+}
+.tb2 caption{
+    text-align:left;
+}
